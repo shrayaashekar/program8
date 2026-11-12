@@ -1,8 +1,1 @@
-a=10
-if(a%2==0)
-{
-printf(number is even)
-}
-else{
-printfnumber is odd)
-}
+printf(welcome to ap v1.1 added enhanced feature)
